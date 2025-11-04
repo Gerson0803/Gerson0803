@@ -79,15 +79,15 @@ gersonzambrano@github
 </a>
 
 <a href="https://github.com/Gerson0803/Reviews">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=__Reviews&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=Reviews&theme=algolia" />
 </a>
 
 <a href="https://github.com/Gerson0803/Front-Recyklon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=____Front-Recyklon&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=Front-Recyklon&theme=algolia" />
 </a>
 
 <a href="https://github.com/Gerson0803/Ascensor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=__Ascensor&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=Ascensor&theme=algolia" />
 </a>
 
 </div>
