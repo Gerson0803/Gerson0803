@@ -1,7 +1,7 @@
 <h1 align="center">
 ¡Hola, soy Gerson Zambrano!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/TU-USERNAME-AQUI" alt="Profile views" align='right'/> <a href="https://github.com/TU-USERNAME-AQUI/TU-USERNAME-AQUI/"> </a> 
+ <img src="https://gpvc.arturio.dev/Gerson0803" alt="Profile views" align='right'/> <a href="https://github.com/Gerson0803/Gerson0803/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -78,15 +78,15 @@ gersonzambrano@github
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=CulturalClasses&theme=algolia" />
 </a>
 
-<a href="https://github.com/Gerson0803/__Reviews">
+<a href="https://github.com/Gerson0803/Reviews">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=__Reviews&theme=algolia" />
 </a>
 
-<a href="https://github.com/Gerson0803/____Front-Recyklon">
+<a href="https://github.com/Gerson0803/Front-Recyklon">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=____Front-Recyklon&theme=algolia" />
 </a>
 
-<a href="https://github.com/Gerson0803/__Ascensor">
+<a href="https://github.com/Gerson0803/Ascensor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=__Ascensor&theme=algolia" />
 </a>
 
