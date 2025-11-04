@@ -97,7 +97,7 @@ gersonzambrano@github
 ### 🌟 Estadísticas Rápidas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME-AQUI&langs_count=6&theme=algolia&layout=compact" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerson0803&langs_count=6&theme=algolia&layout=compact" alt="Lenguajes más usados" />
 </p>
 
 
