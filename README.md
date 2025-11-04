@@ -65,19 +65,35 @@ gersonzambrano@github
 </p>
 
 
-## 📊 Estadísticas de GitHub
+## 📂 Repositorios Populares
 
+<div align="center">
 
-|                                                                     Estadísticas de Gerson                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Gerson's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=TU-USERNAME-AQUI&theme=react-dark&hide_border=true&area=true) |
-| ![Gerson's github stats](https://github-readme-stats.vercel.app/api?username=TU-USERNAME-AQUI&show_icons=true&theme=algolia)              | 
-| ![Gerson's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU-USERNAME-AQUI&theme=algolia)                    | 
-    
+<a href="https://github.com/TU-USERNAME-AQUI/NOMBRE-REPO-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USERNAME-AQUI&repo=NOMBRE-REPO-1&theme=algolia" />
+</a>
 
-|                                                                                                      Estrellas de Gerson                                                                                                       |                                                           Lenguajes Más Usados                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=TU-USERNAME-AQUI&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Mis%20Estadísticas%20de%20GitHub&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME-AQUI&langs_count=8&theme=algolia&layout=compact) |
+<a href="https://github.com/TU-USERNAME-AQUI/NOMBRE-REPO-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USERNAME-AQUI&repo=NOMBRE-REPO-2&theme=algolia" />
+</a>
+
+<a href="https://github.com/TU-USERNAME-AQUI/NOMBRE-REPO-3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USERNAME-AQUI&repo=NOMBRE-REPO-3&theme=algolia" />
+</a>
+
+<a href="https://github.com/TU-USERNAME-AQUI/NOMBRE-REPO-4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USERNAME-AQUI&repo=NOMBRE-REPO-4&theme=algolia" />
+</a>
+
+</div>
+
+---
+
+### 🌟 Estadísticas Rápidas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USERNAME-AQUI&langs_count=6&theme=algolia&layout=compact" alt="Lenguajes más usados" />
+</p>
 
 
 
