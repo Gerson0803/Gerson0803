@@ -74,20 +74,20 @@ gersonzambrano@github
 
 <div align="center">
 
-<a href="https://github.com/TU-USERNAME-AQUI/NOMBRE-REPO-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USERNAME-AQUI&repo=NOMBRE-REPO-1&theme=algolia" />
+<a href="https://github.com/Gerson0803/CulturalClasses">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=CulturalClasses&theme=algolia" />
 </a>
 
-<a href="https://github.com/TU-USERNAME-AQUI/NOMBRE-REPO-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USERNAME-AQUI&repo=NOMBRE-REPO-2&theme=algolia" />
+<a href="https://github.com/Gerson0803/__Reviews">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=__Reviews&theme=algolia" />
 </a>
 
-<a href="https://github.com/TU-USERNAME-AQUI/NOMBRE-REPO-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USERNAME-AQUI&repo=NOMBRE-REPO-3&theme=algolia" />
+<a href="https://github.com/Gerson0803/____Front-Recyklon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=____Front-Recyklon&theme=algolia" />
 </a>
 
-<a href="https://github.com/TU-USERNAME-AQUI/NOMBRE-REPO-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USERNAME-AQUI&repo=NOMBRE-REPO-4&theme=algolia" />
+<a href="https://github.com/Gerson0803/__Ascensor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=__Ascensor&theme=algolia" />
 </a>
 
 </div>
