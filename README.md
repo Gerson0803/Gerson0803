@@ -82,8 +82,8 @@ gersonzambrano@github
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=Reviews&theme=algolia" />
 </a>
 
-<a href="https://github.com/Gerson0803/Front-Recyklon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=Front-Recyklon&theme=algolia" />
+<a href="https://github.com/Gerson0803/Chat-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gerson0803&repo=Chat-App&theme=algolia" />
 </a>
 
 <a href="https://github.com/Gerson0803/Ascensor">
@@ -137,12 +137,11 @@ Estoy disponible para proyectos freelance de desarrollo web y análisis de datos
 
 ---
 
-⭐️ From [TU-USERNAME-AQUI](https://github.com/TU-USERNAME-AQUI)
+⭐️ From [Gerson0803](https://github.com/Gerson0803)
 
 Última edición: Noviembre 2024
 ------
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
-
+Last Edited On: 18/11/2024
 
 
